@@ -7,10 +7,10 @@ KATE_G = { name:  "Kate Gompert", occupation: "None" }
 BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
-  array = {
+  array = [
     { name:  "Don Gately", occupation: "Live-in Staff" },
     { name:  "Joelle van Dyne", occupation: "Radio Personality" }
-  }
+  ]
 end
 
 def literal_aoh
